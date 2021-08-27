@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+    color: red;
+}
+h1{
+    text-decoration: blue;
+    text-align: center;
+    box-shadow: gray 2px 2px;
+}
